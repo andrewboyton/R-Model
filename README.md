@@ -1,11 +1,20 @@
 # R-Model
-Build a comprehensive theoretical framework for analysing and understanding personal and professional human-to-human relationships.
+[The Relationship Lab](https://therelationshiplab.co)
 
+Inspirations:
+
+* [SAP Dojo](https://github.com/sap-samples/dojo)
+* [Institute for Zen Leadership](https://zenleader.global)
+* [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido)
+* [Dojo Consortium](https://dojoconsortium.org)
+* [InnerSource Commons Foundation](https://innersourcecommons.org)
+* [Cloud Security Office Hours](https://csoh.org)
+* [Fearless Change](https://fearlesschangepatterns.com)
 
 
 # R-Model Influencers
 ## Transactional Analysis
-* Eric Berne (USA) - MD, Psychiatrist
+* [Eric Berne (USA) - MD, Psychiatrist](https://ericberne.com) 
 * George Kohlrieser (Switzerland/USA) - PhD
 * Ian Stewart (UK) - MSc, TSTA
 * Adrienne Lee (UK) - MSc, TSTA, CTA
