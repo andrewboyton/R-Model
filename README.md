@@ -23,9 +23,9 @@
 * [William Cornell (USA) - PhD, TSTA](https://williamfcornell.com/) 
 
 ## Existential Psychology and Psychodynamic Theory
-* [Irvin D. Yalom (USA) - MD, Psychiatrist] (https://www.yalom.com/)
-* [Edith Eger (USA/Hungary) - PhD] (https://en.wikipedia.org/wiki/Edith_Eger)
-* [R.D. Laing (UK) - MD, Psychiatrist] (https://www.rdlaingofficial.com/)
+* [Irvin D. Yalom (USA) - MD, Psychiatrist](https://www.yalom.com/)
+* [Edith Eger (USA/Hungary) - PhD](https://en.wikipedia.org/wiki/Edith_Eger)
+* [R.D. Laing (UK) - MD, Psychiatrist](https://www.rdlaingofficial.com/)
 
 ## Psychoanalysis and Neuroscience Theory
 * Mark Solms (South Africa/UK) - PhD
