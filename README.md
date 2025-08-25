@@ -12,7 +12,7 @@
 * [Julie Hay (UK) - MSc, TSTA](https://juliehay.org/)
 * Robert Goulding (USA) - MD, Psychiatrist
 * Mary Goulding (USA) - MSW
-* Anita Mountain (UK) - TSTA (https://conversationsinta.com/anita-mountain-2/)
+* [Anita Mountain (UK) - TSTA] (https://conversationsinta.com/anita-mountain-2/)
 * Ken Mellor (Australia) - MA, TSTA
 * [Mark Widdowson (UK) -  PhD, MSc, ECP, TSTA(P)] (https://onlinevents.co.uk/presenter/dr-mark-widdowson/)
 * Tony White (Australia) - BA, TSTA
@@ -22,9 +22,11 @@
 * [Richard Erskine (USA) - PhD, TSTA] (https://www.integrativetherapy.com/en/faculty.php#faculty_1)
 * [William Cornell (USA) - PhD, TSTA] (https://williamfcornell.com/) 
 
-## Existential psychotherapy and Psychodynamic Therapy
-* Irvin D. Yalom (USA) - MD, Psychiatrist
+## Existential Psychology and Psychodynamic Theory
+* [Irvin D. Yalom (USA) - MD, Psychiatrist] (https://www.yalom.com/)
+* [Edith Eger (USA/Hungary) - PhD] (https://en.wikipedia.org/wiki/Edith_Eger)
+* [R.D. Laing (UK) - MD, Psychiatrist] (https://www.rdlaingofficial.com/)
 
-## Psychoanalysis and Neuroscience
+## Psychoanalysis and Neuroscience Theory
 * Mark Solms (South Africa/UK) - PhD
 * Karl Friston (UK) - MD, PhD
