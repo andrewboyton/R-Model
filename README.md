@@ -18,6 +18,9 @@
 * Tony White (Australia) - BA, TSTA
 * Petruska Clarkson (South Africa/UK) - PhD
 * Paul Ware (USA) - PhD
+* Charlotte Sills (UK) - MSc, TSTA
+* [Richard Erskine (USA) - PhD, TSTA] (https://www.integrativetherapy.com/en/faculty.php#faculty_1)
+* [William Cornell (USA) - PhD, TSTA] (https://williamfcornell.com/) 
 
 ## Existential psychotherapy and Psychodynamic Therapy
 * Irvin D. Yalom (USA) - MD, Psychiatrist
